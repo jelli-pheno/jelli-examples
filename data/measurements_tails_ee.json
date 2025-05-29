@@ -1,0 +1,2076 @@
+{
+    "$schema": "https://json.schemastore.org/pdfxf-1.0.json",
+    "ATLAS pp->ee 2019": [
+        {
+            "observables": [
+                "('R_13(pp->ee)', 130.0015, 135.0803)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 97950.09608780447,
+            "loc": -0.16583653437875132,
+            "scale": 1.2332693238148677e-05,
+            "gaussian_standard_deviation": 5000.588854114147
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 135.0803, 140.3576)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 84591.46700920945,
+            "loc": -0.19109866286724653,
+            "scale": 1.4446251442417394e-05,
+            "gaussian_standard_deviation": 4357.6509582467115
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 140.3576, 145.841)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 73678.58736496375,
+            "loc": -0.21739713381702933,
+            "scale": 1.687832468956729e-05,
+            "gaussian_standard_deviation": 3809.8769400757465
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 145.841, 151.5373)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 65299.2717265786,
+            "loc": -0.24185440180953005,
+            "scale": 1.95402439647497e-05,
+            "gaussian_standard_deviation": 3357.8139815115555
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 151.5373, 157.4575)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 57174.48475062844,
+            "loc": -0.26899167625224774,
+            "scale": 2.2433067165504817e-05,
+            "gaussian_standard_deviation": 2993.0645235757147
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 157.4575, 163.609)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 51012.969305676175,
+            "loc": -0.29573429215242336,
+            "scale": 2.5872912924585207e-05,
+            "gaussian_standard_deviation": 2656.6060408763883
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 163.609, 170.0008)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 45818.07724602184,
+            "loc": -0.31828416969191325,
+            "scale": 2.9184567585936974e-05,
+            "gaussian_standard_deviation": 2412.4247016848776
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 170.0008, 176.6408)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 41015.31123306121,
+            "loc": -0.34013011600678666,
+            "scale": 3.306245838643729e-05,
+            "gaussian_standard_deviation": 2181.797292029745
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 176.6408, 183.5417)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 37158.82096625343,
+            "loc": -0.36767822793206545,
+            "scale": 3.768318673487399e-05,
+            "gaussian_standard_deviation": 1954.1188631227808
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 183.5417, 190.7122)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 33243.380659475326,
+            "loc": -0.39455911294796353,
+            "scale": 4.2741138263125134e-05,
+            "gaussian_standard_deviation": 1760.8803060321534
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 190.7122, 198.1629)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 30092.30081059541,
+            "loc": -0.41498266612423057,
+            "scale": 4.80112479990445e-05,
+            "gaussian_standard_deviation": 1602.9072476828815
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 198.1629, 205.9028)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 26906.019843905644,
+            "loc": -0.43886825737646,
+            "scale": 5.4099701415806044e-05,
+            "gaussian_standard_deviation": 1453.4497184562108
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 205.9028, 213.9394)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 24243.977217540498,
+            "loc": -0.4597141422585945,
+            "scale": 6.0928725802191565e-05,
+            "gaussian_standard_deviation": 1312.0100412543106
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 213.9394, 222.2975)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 21813.55089957259,
+            "loc": -0.4791025272806047,
+            "scale": 6.84071111037318e-05,
+            "gaussian_standard_deviation": 1190.0446190750324
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 222.2975, 230.9902)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 19792.862964624223,
+            "loc": -0.48923097402739724,
+            "scale": 7.643854201559559e-05,
+            "gaussian_standard_deviation": 1078.9245274849386
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 230.9902, 240.0039)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 17808.673308411715,
+            "loc": -0.510949430569762,
+            "scale": 8.62407749068593e-05,
+            "gaussian_standard_deviation": 981.7354664069255
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 240.0039, 249.3802)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 16296.976158627765,
+            "loc": -0.5205914364192306,
+            "scale": 9.649122883371949e-05,
+            "gaussian_standard_deviation": 889.2823126646324
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 249.3802, 259.1229)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 14290.667537147046,
+            "loc": -0.5384581617423684,
+            "scale": 0.0001087606655189842,
+            "gaussian_standard_deviation": 793.7255297662615
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 259.1229, 269.2462)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 13038.604152525233,
+            "loc": -0.5495899764034836,
+            "scale": 0.00012179109660095017,
+            "gaussian_standard_deviation": 719.3740771806467
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 269.2462, 279.7625)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 11563.813282279834,
+            "loc": -0.5562333116053924,
+            "scale": 0.00013724979684923984,
+            "gaussian_standard_deviation": 653.7372273056299
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 279.7625, 290.6922)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 10186.167926541993,
+            "loc": -0.5667783603291515,
+            "scale": 0.0001537646079277784,
+            "gaussian_standard_deviation": 589.656565522517
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 290.6922, 302.0488)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9219.998992379236,
+            "loc": -0.5648779118024713,
+            "scale": 0.00017274238659341256,
+            "gaussian_standard_deviation": 524.1327408624023
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 302.0488, 313.8491)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 8104.516491866462,
+            "loc": -0.5734989457519084,
+            "scale": 0.00019444276945669583,
+            "gaussian_standard_deviation": 474.78876252421395
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 313.8491, 326.1076)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 7414.335254694742,
+            "loc": -0.568619190950645,
+            "scale": 0.00021789453569040658,
+            "gaussian_standard_deviation": 428.2289459608986
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 326.1076, 338.8478)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 6527.826468444991,
+            "loc": -0.5717742319278731,
+            "scale": 0.00024454498308601225,
+            "gaussian_standard_deviation": 387.2323019446182
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 338.8478, 352.0857)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 5786.420059023196,
+            "loc": -0.5766910167593459,
+            "scale": 0.00027617480881406836,
+            "gaussian_standard_deviation": 352.7944835921638
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 352.0857, 365.8409)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 5117.656467932042,
+            "loc": -0.5745371825346169,
+            "scale": 0.00031329384990679563,
+            "gaussian_standard_deviation": 322.01254487850343
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 365.8409, 380.13)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 4612.286134228489,
+            "loc": -0.559896851051534,
+            "scale": 0.00034911174867409173,
+            "gaussian_standard_deviation": 290.83285495135436
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 380.13, 394.9808)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 4048.8983410975466,
+            "loc": -0.5598968510515355,
+            "scale": 0.0003949383957866019,
+            "gaussian_standard_deviation": 259.7009761921493
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 394.9808, 410.3972)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3591.8323511844733,
+            "loc": -0.5594287655137277,
+            "scale": 0.0004474341452706121,
+            "gaussian_standard_deviation": 229.65524036567348
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 410.3972, 426.4304)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3140.3471197369486,
+            "loc": -0.544726188800534,
+            "scale": 0.000502394652969665,
+            "gaussian_standard_deviation": 203.68384695271632
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 426.4304, 443.0861)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2715.309586232467,
+            "loc": -0.5282465485343121,
+            "scale": 0.0005685160282425192,
+            "gaussian_standard_deviation": 180.46309211601982
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 443.0861, 460.3964)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2414.180160272831,
+            "loc": -0.5265802950418195,
+            "scale": 0.0006441667284197498,
+            "gaussian_standard_deviation": 164.0562520677799
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 460.3964, 478.383)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1997.6996376866573,
+            "loc": -0.5193804731935711,
+            "scale": 0.0007278476711879326,
+            "gaussian_standard_deviation": 151.21565368258194
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 478.383, 497.0722)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1819.8200490770755,
+            "loc": -0.5054885554925196,
+            "scale": 0.000824405810877622,
+            "gaussian_standard_deviation": 129.85622039100267
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 497.0722, 516.4871)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1632.0963731925158,
+            "loc": -0.4872271246386783,
+            "scale": 0.0009312442275077185,
+            "gaussian_standard_deviation": 109.71058270193336
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 516.4871, 536.665)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1368.4928859180989,
+            "loc": -0.47975455954750784,
+            "scale": 0.0010553631282144097,
+            "gaussian_standard_deviation": 103.53297658059545
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 536.665, 557.6312)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1270.26775976893,
+            "loc": -0.48040776741280283,
+            "scale": 0.0012095248020111693,
+            "gaussian_standard_deviation": 93.88784842155745
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 557.6312, 579.4164)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1081.5695533549847,
+            "loc": -0.4539024444660312,
+            "scale": 0.0013733533694863858,
+            "gaussian_standard_deviation": 77.65934727626819
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 579.4164, 602.0475)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 938.1021583413152,
+            "loc": -0.45971414225859686,
+            "scale": 0.001559360967585762,
+            "gaussian_standard_deviation": 68.49151428413838
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 602.0475, 625.568)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 814.1811647654824,
+            "loc": -0.44344648522204005,
+            "scale": 0.0017785323319468057,
+            "gaussian_standard_deviation": 61.58781286671711
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 625.568, 650.0075)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 707.1610340728728,
+            "loc": -0.42336759450600586,
+            "scale": 0.0020326209745027937,
+            "gaussian_standard_deviation": 54.91632379110085
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 650.0075, 675.4017)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 556.9057477934142,
+            "loc": -0.41202744735208413,
+            "scale": 0.002318110242712648,
+            "gaussian_standard_deviation": 49.24721937606607
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 675.4017, 701.7818)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 507.8087793638034,
+            "loc": -0.4018956419813849,
+            "scale": 0.0026641125124107945,
+            "gaussian_standard_deviation": 41.95765059011334
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 701.7818, 729.1987)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 436.21427396152177,
+            "loc": -0.39016478759882633,
+            "scale": 0.003038931703603945,
+            "gaussian_standard_deviation": 36.232091025653396
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 729.1987, 757.6867)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 424.3756607856382,
+            "loc": -0.36992121488227314,
+            "scale": 0.003495874956877871,
+            "gaussian_standard_deviation": 31.448674177937836
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 757.6867, 787.2599)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 399.84895995789265,
+            "loc": -0.3782691796481945,
+            "scale": 0.004013458350225681,
+            "gaussian_standard_deviation": 27.980615771797872
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 787.2599, 818.0378)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 300.7511245694044,
+            "loc": -0.3508478966852961,
+            "scale": 0.0046219449602098025,
+            "gaussian_standard_deviation": 24.220760425686688
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 818.0378, 849.9666)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 237.00694123573948,
+            "loc": -0.3467751811533559,
+            "scale": 0.005300675309648257,
+            "gaussian_standard_deviation": 21.780938810526123
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 849.9666, 883.1727)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 216.41871361748014,
+            "loc": -0.3232497039528849,
+            "scale": 0.0061180313214885314,
+            "gaussian_standard_deviation": 19.215492334610015
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 883.1727, 917.6761)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 222.29819689281416,
+            "loc": -0.34385693720404836,
+            "scale": 0.0070704917637696586,
+            "gaussian_standard_deviation": 16.20071279217406
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 917.6761, 953.5275)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 160.51371038435036,
+            "loc": -0.32351198031084294,
+            "scale": 0.008185107986076986,
+            "gaussian_standard_deviation": 13.811881132488796
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 953.5275, 990.7707)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 130.13353082330747,
+            "loc": -0.31209198088083995,
+            "scale": 0.009525662259813395,
+            "gaussian_standard_deviation": 13.175902417516886
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 990.7707, 1029.4777)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 113.49576532027582,
+            "loc": -0.30119686222002756,
+            "scale": 0.01106394894571722,
+            "gaussian_standard_deviation": 11.659037470077081
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1029.4777, 1069.6969)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 93.90250290773875,
+            "loc": -0.3147726115915409,
+            "scale": 0.012840152490616673,
+            "gaussian_standard_deviation": 9.87136032601964
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1069.6969, 1111.4873)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 89.01472671768623,
+            "loc": -0.29975996185713305,
+            "scale": 0.015031760330856996,
+            "gaussian_standard_deviation": 8.705970941275497
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1111.4873, 1154.9002)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 76.27792938634673,
+            "loc": -0.29538228512150627,
+            "scale": 0.017709511586387495,
+            "gaussian_standard_deviation": 7.842767814625907
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1154.9002, 1200.0193)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 57.67417863502218,
+            "loc": -0.27880004935759634,
+            "scale": 0.020425979352369422,
+            "gaussian_standard_deviation": 7.314831606268497
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1200.0193, 1246.9012)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 64.53907512975142,
+            "loc": -0.2855344895521767,
+            "scale": 0.0243830964409557,
+            "gaussian_standard_deviation": 6.513418863069771
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1246.9012, 1295.6146)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 39.09018848604091,
+            "loc": -0.27667952867659196,
+            "scale": 0.028231052442424482,
+            "gaussian_standard_deviation": 5.521353708896579
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1295.6146, 1346.2192)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 41.04102995107373,
+            "loc": -0.3104971640261888,
+            "scale": 0.033909257162614614,
+            "gaussian_standard_deviation": 4.694009268181746
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1346.2192, 1398.8127)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 29.3155164256166,
+            "loc": -0.272284619383382,
+            "scale": 0.04009624995790919,
+            "gaussian_standard_deviation": 3.8574711625114353
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1398.8127, 1453.4609)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 23.44740373150197,
+            "loc": -0.2648468347428706,
+            "scale": 0.0471070903104401,
+            "gaussian_standard_deviation": 3.378377788764045
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1453.4609, 1510.244)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 22.468559635362947,
+            "loc": -0.3264809239915893,
+            "scale": 0.05605466718315075,
+            "gaussian_standard_deviation": 3.1048366619791468
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1510.244, 1569.2317)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 18.562457567401644,
+            "loc": -0.2973542669847038,
+            "scale": 0.06717407775091293,
+            "gaussian_standard_deviation": 2.5393736037251857
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1569.2317, 1630.4802)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 10.749244343870092,
+            "loc": -0.25745486950308033,
+            "scale": 0.08051811110941567,
+            "gaussian_standard_deviation": 2.113991020963491
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1630.4802, 1694.1791)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 14.652946963709823,
+            "loc": -0.24070722098211328,
+            "scale": 0.0954448321661011,
+            "gaussian_standard_deviation": 1.9315240978219659
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1694.1791, 1760.3666)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 17.58183914474875,
+            "loc": -0.2651550041082243,
+            "scale": 0.11570464057085542,
+            "gaussian_standard_deviation": 1.6926221911321264
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1760.3666, 1829.1236)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9.771855311944638,
+            "loc": -0.2339367165390771,
+            "scale": 0.14006243288425288,
+            "gaussian_standard_deviation": 1.361682821855043
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1829.1236, 1900.583)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 6.8442199558327825,
+            "loc": -0.4440354238002279,
+            "scale": 0.171541450134859,
+            "gaussian_standard_deviation": 1.3526428282999017
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1900.583, 1974.8342)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.9715693367457594,
+            "loc": -0.26057758056435765,
+            "scale": 0.2092432338426458,
+            "gaussian_standard_deviation": 1.0166440219119595
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1974.8342, 2051.9861)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2.945364105403084,
+            "loc": -0.27156922114014376,
+            "scale": 0.2540206377272894,
+            "gaussian_standard_deviation": 0.8758447738018891
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2051.9861, 2132.1334)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9.771855311944638,
+            "loc": -0.2657468753621434,
+            "scale": 0.3151573602388245,
+            "gaussian_standard_deviation": 0.7323076989773978
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2132.1334, 2215.4306)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2456633018701188,
+            "scale": 0.3848308840456396,
+            "gaussian_standard_deviation": 0.6225672579529163
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2215.4306, 2301.9821)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 5.869045766105319,
+            "loc": -0.26293055659722403,
+            "scale": 0.4803713478452193,
+            "gaussian_standard_deviation": 0.5353327260232467
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2301.9821, 2391.9149)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3.9193262317623336,
+            "loc": -0.24052427563986997,
+            "scale": 0.5987878305366042,
+            "gaussian_standard_deviation": 0.44779220779209794
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2391.9149, 2485.3393)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 5.869045766105319,
+            "loc": -0.24899555513676755,
+            "scale": 0.7482562094872316,
+            "gaussian_standard_deviation": 0.39094696744595075
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2485.3393, 2582.4354)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2.9453641054030664,
+            "loc": -0.2515363845403903,
+            "scale": 0.9435029816259038,
+            "gaussian_standard_deviation": 0.33759452477562935
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2582.4354, 2683.3248)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2.9453641054030664,
+            "loc": -0.25812553835097335,
+            "scale": 1.1988471147431752,
+            "gaussian_standard_deviation": 0.2924475697391959
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2683.3248, 2788.1558)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.25909800362817154,
+            "scale": 1.5175353554380437,
+            "gaussian_standard_deviation": 0.2551134283132255
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2788.1558, 2897.0567)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.26343992083800255,
+            "scale": 1.952669252351545,
+            "gaussian_standard_deviation": 0.22443486979462815
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2897.0567, 3010.2376)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.26484683474287185,
+            "scale": 2.5023129756161775,
+            "gaussian_standard_deviation": 0.1977807518255459
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3010.2376, 3127.7298)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.26305778600944363,
+            "scale": 3.2447259310769816,
+            "gaussian_standard_deviation": 0.1714685821113244
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3127.7298, 3249.9226)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2649495097090865,
+            "scale": 4.26158294106928,
+            "gaussian_standard_deviation": 0.1495995914919013
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3249.9226, 3376.8593)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.26836496830990547,
+            "scale": 5.610273061459661,
+            "gaussian_standard_deviation": 0.12989764614730645
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3376.8593, 3508.785)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.9715693367457523,
+            "loc": -0.2688087034044594,
+            "scale": 7.455924738202726,
+            "gaussian_standard_deviation": 0.11563780858998697
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3508.785, 3645.8646)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.26224480093273506,
+            "scale": 9.99546044140827,
+            "gaussian_standard_deviation": 0.09999023273953724
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3645.8646, 3788.2997)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2688087034044594,
+            "scale": 13.585420837517379,
+            "gaussian_standard_deviation": 0.08561484210451817
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3788.2997, 3936.2646)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.264846834742873,
+            "scale": 18.459757051860073,
+            "gaussian_standard_deviation": 0.07388368415465373
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3936.2646, 4090.0448)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.9715693367457523,
+            "loc": -0.2684692966682727,
+            "scale": 25.650681230111875,
+            "gaussian_standard_deviation": 0.06302461460316248
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4090.0448, 4249.8329)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2623462579229507,
+            "scale": 35.51063091958176,
+            "gaussian_standard_deviation": 0.05481290833416443
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4249.8329, 4415.8634)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2798677303933526,
+            "scale": 50.76076976105406,
+            "gaussian_standard_deviation": 0.04643474045611447
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4415.8634, 4588.34)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2570584267527055,
+            "scale": 73.10315047448637,
+            "gaussian_standard_deviation": 0.038981639480376584
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4588.34, 4767.5952)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2710407668582283,
+            "scale": 106.42394209196908,
+            "gaussian_standard_deviation": 0.031000561796046447
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4767.5952, 4953.8535)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2646416291320293,
+            "scale": 156.8038424677342,
+            "gaussian_standard_deviation": 0.021350088623077475
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4953.8535, 5147.3884)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.25889816398868093,
+            "scale": 234.69830154908252,
+            "gaussian_standard_deviation": 0.018518244451196132
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5147.3884, 5348.4372)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.25570125031311264,
+            "scale": 359.02069531801953,
+            "gaussian_standard_deviation": 0.017332008085563434
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5348.4372, 5557.3875)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.24440128091015212,
+            "scale": 559.0543679036756,
+            "gaussian_standard_deviation": 0.014476023761680524
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5557.3875, 5774.5011)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.23480104531421428,
+            "scale": 880.2572239137857,
+            "gaussian_standard_deviation": 0.011412766098604794
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5774.5011, 5999.885)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.1286972217858389,
+            "scale": 609.1436469323086,
+            "gaussian_standard_deviation": 0.019660699632794803
+        }
+    ],
+    "CMS pp->ee 2021": [
+        {
+            "observables": [
+                "('R_13(pp->ee)', 60.0, 65.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 15453.0,
+            "loc": -0.6948040295064019,
+            "scale": 0.00012185527470961339,
+            "gaussian_standard_deviation": 831.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 65.0, 70.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 22004.0,
+            "loc": -0.5190878500798792,
+            "scale": 8.041585490665783e-05,
+            "gaussian_standard_deviation": 1023.3
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 70.0, 75.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 69946.0,
+            "loc": -0.1296699889753768,
+            "scale": 1.648513703714104e-05,
+            "gaussian_standard_deviation": 2692.9500000000003
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 75.0, 80.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 304021.0,
+            "loc": -0.03242473016544487,
+            "scale": 3.460285251233667e-06,
+            "gaussian_standard_deviation": 10302.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 80.0, 85.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1522251.0,
+            "loc": -0.008042007998033828,
+            "scale": 6.690077527158101e-07,
+            "gaussian_standard_deviation": 50005.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 85.0, 90.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9638501.0,
+            "loc": -0.0026209669345882446,
+            "scale": 1.0426141482073915e-07,
+            "gaussian_standard_deviation": 321280.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 90.0, 95.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 13100501.0,
+            "loc": -0.002470718221691489,
+            "scale": 7.666763265989404e-08,
+            "gaussian_standard_deviation": 429800.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 95.0, 100.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2188451.0,
+            "loc": -0.006624037273895633,
+            "scale": 4.4704648764652155e-07,
+            "gaussian_standard_deviation": 72980.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 100.0, 105.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 634751.0,
+            "loc": -0.01982211899192442,
+            "scale": 1.5807013446331753e-06,
+            "gaussian_standard_deviation": 21565.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 105.0, 110.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 330786.0,
+            "loc": -0.038930243223658144,
+            "scale": 3.1060510844567983e-06,
+            "gaussian_standard_deviation": 11210.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 110.0, 115.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 213746.0,
+            "loc": -0.06022465028025819,
+            "scale": 4.863852620007929e-06,
+            "gaussian_standard_deviation": 7552.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 115.0, 120.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 153971.0,
+            "loc": -0.0833778480397105,
+            "scale": 6.893179328721299e-06,
+            "gaussian_standard_deviation": 5501.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 120.0, 125.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 118256.0,
+            "loc": -0.10475870352251723,
+            "scale": 8.931757380176736e-06,
+            "gaussian_standard_deviation": 5257.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 125.0, 130.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 94996.0,
+            "loc": -0.1285535435006035,
+            "scale": 1.1384475528590407e-05,
+            "gaussian_standard_deviation": 5197.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 130.0, 135.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 78356.0,
+            "loc": -0.15414487121019776,
+            "scale": 1.4125836791104324e-05,
+            "gaussian_standard_deviation": 5180.5
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 135.0, 140.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 65251.0,
+            "loc": -0.17893864372598017,
+            "scale": 1.7088844016926783e-05,
+            "gaussian_standard_deviation": 3200.1499999999996
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 140.0, 145.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 56546.0,
+            "loc": -0.20345336621097987,
+            "scale": 2.0407827461011443e-05,
+            "gaussian_standard_deviation": 2400.1
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 145.0, 150.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 48692.0,
+            "loc": -0.23359925548698768,
+            "scale": 2.47663159105068e-05,
+            "gaussian_standard_deviation": 2193.7
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 150.0, 160.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 79346.0,
+            "loc": -0.2660070572083409,
+            "scale": 1.5416384324049313e-05,
+            "gaussian_standard_deviation": 4317.799999999999
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 160.0, 170.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 62264.0,
+            "loc": -0.3096141277156705,
+            "scale": 2.021551726016375e-05,
+            "gaussian_standard_deviation": 2478.0
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 170.0, 180.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 50153.0,
+            "loc": -0.363890539364835,
+            "scale": 2.6749392802316055e-05,
+            "gaussian_standard_deviation": 2020.1
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 180.0, 190.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 40919.0,
+            "loc": -0.38942473693270574,
+            "scale": 3.290507813517481e-05,
+            "gaussian_standard_deviation": 1637.2
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 190.0, 200.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 33719.0,
+            "loc": -0.43866673225095076,
+            "scale": 4.2097818026876184e-05,
+            "gaussian_standard_deviation": 1438.8999999999999
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 200.0, 220.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 51165.0,
+            "loc": -0.4944684272648344,
+            "scale": 2.9084933662945905e-05,
+            "gaussian_standard_deviation": 2751.2
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 220.0, 240.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 36437.0,
+            "loc": -0.5306652307767092,
+            "scale": 4.143221958147583e-05,
+            "gaussian_standard_deviation": 1431.14
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 240.0, 260.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 26303.0,
+            "loc": -0.5783732285579876,
+            "scale": 5.9588694486052555e-05,
+            "gaussian_standard_deviation": 1083.64
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 260.0, 280.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 19517.0,
+            "loc": -0.6000422595908746,
+            "scale": 8.155766468087255e-05,
+            "gaussian_standard_deviation": 825.0799999999999
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 280.0, 300.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 14568.0,
+            "loc": -0.6152531503926838,
+            "scale": 0.00011016301194453936,
+            "gaussian_standard_deviation": 573.2
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 300.0, 320.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 11187.0,
+            "loc": -0.6055505207010573,
+            "scale": 0.00014385852867420914,
+            "gaussian_standard_deviation": 503.56
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 320.0, 340.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 8637.0,
+            "loc": -0.6010237315795315,
+            "scale": 0.00018368143643359973,
+            "gaussian_standard_deviation": 378.2
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 340.0, 360.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 6793.0,
+            "loc": -0.5916276940589154,
+            "scale": 0.00023468800216940207,
+            "gaussian_standard_deviation": 277.65999999999997
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 360.0, 380.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 5294.0,
+            "loc": -0.5748149401657332,
+            "scale": 0.00029240951422857697,
+            "gaussian_standard_deviation": 261.12
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 380.0, 400.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 4124.0,
+            "loc": -0.5687733436530085,
+            "scale": 0.0003691215976650462,
+            "gaussian_standard_deviation": 183.15200000000002
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 400.0, 420.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3361.0,
+            "loc": -0.5404620349915085,
+            "scale": 0.00045310061385788814,
+            "gaussian_standard_deviation": 176.508
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 420.0, 440.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2760.0,
+            "loc": -0.5294919607576438,
+            "scale": 0.0005574191289649166,
+            "gaussian_standard_deviation": 116.69800000000001
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 440.0, 460.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2229.0,
+            "loc": -0.5100032540007695,
+            "scale": 0.0006851301539404938,
+            "gaussian_standard_deviation": 102.814
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 460.0, 480.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1749.0,
+            "loc": -0.5031197349080658,
+            "scale": 0.0008196203893736208,
+            "gaussian_standard_deviation": 76.174
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 480.0, 500.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1529.0,
+            "loc": -0.5288722313751464,
+            "scale": 0.0009565562876769117,
+            "gaussian_standard_deviation": 64.512
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 500.0, 520.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1235.0,
+            "loc": -0.47925531931059007,
+            "scale": 0.0011664459120967233,
+            "gaussian_standard_deviation": 71.322
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 520.0, 540.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1060.0,
+            "loc": -0.43941940138337215,
+            "scale": 0.0013481335925621426,
+            "gaussian_standard_deviation": 47.248000000000005
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 540.0, 560.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 865.0,
+            "loc": -0.42232005006023327,
+            "scale": 0.001591944132329856,
+            "gaussian_standard_deviation": 40.428
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 560.0, 580.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 752.0,
+            "loc": -0.40293149478872703,
+            "scale": 0.0018919061959419181,
+            "gaussian_standard_deviation": 36.858
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 580.0, 600.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 662.0,
+            "loc": -0.3820114690312892,
+            "scale": 0.0021567037701779855,
+            "gaussian_standard_deviation": 31.808
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 600.0, 630.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 793.99,
+            "loc": -0.36690476150846324,
+            "scale": 0.0017529219450267489,
+            "gaussian_standard_deviation": 51.794999999999995
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 630.0, 660.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 640.0,
+            "loc": -0.3399752452833918,
+            "scale": 0.0021277297761460446,
+            "gaussian_standard_deviation": 29.1948
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 660.0, 690.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 516.01,
+            "loc": -0.310651367016768,
+            "scale": 0.0025513994426335095,
+            "gaussian_standard_deviation": 26.3487
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 690.0, 720.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 433.99,
+            "loc": -0.30130145116430335,
+            "scale": 0.0031526945254715675,
+            "gaussian_standard_deviation": 23.1792
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 720.0, 750.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 375.01,
+            "loc": -0.28570269338039533,
+            "scale": 0.003894178755251911,
+            "gaussian_standard_deviation": 18.7224
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 750.0, 780.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 312.01000000000005,
+            "loc": -0.28023497507675943,
+            "scale": 0.004796416903378421,
+            "gaussian_standard_deviation": 16.341900000000003
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 780.0, 810.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 205.0,
+            "loc": -0.24142685524602325,
+            "scale": 0.0050987105983517035,
+            "gaussian_standard_deviation": 15.481200000000001
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 810.0, 840.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 208.0,
+            "loc": -0.24458830626279365,
+            "scale": 0.00666658159963576,
+            "gaussian_standard_deviation": 16.727700000000002
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 840.0, 870.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 157.0,
+            "loc": -0.24168205254645123,
+            "scale": 0.007763116663687077,
+            "gaussian_standard_deviation": 8.4702
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 870.0, 900.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 124.99900000000001,
+            "loc": -0.23128349193412615,
+            "scale": 0.00916131584214694,
+            "gaussian_standard_deviation": 7.5906
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 900.0, 950.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 178.0,
+            "loc": -0.21357191896412403,
+            "scale": 0.006738614100882317,
+            "gaussian_standard_deviation": 13.5435
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 950.0, 1000.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 157.0,
+            "loc": -0.18589379126502248,
+            "scale": 0.008662068824143233,
+            "gaussian_standard_deviation": 8.2165
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1000.0, 1050.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 87.0,
+            "loc": -0.17284972341307026,
+            "scale": 0.01108553228972087,
+            "gaussian_standard_deviation": 6.4415
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1050.0, 1100.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 79.0,
+            "loc": -0.1678622361580168,
+            "scale": 0.014635697669161283,
+            "gaussian_standard_deviation": 6.010999999999999
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1100.0, 1150.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 79.0,
+            "loc": -0.14814950325551468,
+            "scale": 0.01788001026268359,
+            "gaussian_standard_deviation": 4.5796
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1150.0, 1200.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 50.0,
+            "loc": -0.14692494411773765,
+            "scale": 0.022008641076998608,
+            "gaussian_standard_deviation": 3.70115
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1200.0, 1250.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 42.0,
+            "loc": -0.15601973400419367,
+            "scale": 0.027981768594955717,
+            "gaussian_standard_deviation": 3.2655999999999996
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1250.0, 1310.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 44.0002,
+            "loc": -0.10942905150675968,
+            "scale": 0.028189579357832086,
+            "gaussian_standard_deviation": 3.82956
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1310.0, 1370.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 32.99979999999999,
+            "loc": -0.12082365779883521,
+            "scale": 0.03673021166475208,
+            "gaussian_standard_deviation": 2.62758
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1370.0, 1430.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 22.0,
+            "loc": -0.1062974115376308,
+            "scale": 0.04652771203325717,
+            "gaussian_standard_deviation": 2.13912
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1430.0, 1490.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 26.0002,
+            "loc": -0.12258938436385627,
+            "scale": 0.05873387586884946,
+            "gaussian_standard_deviation": 1.6299000000000001
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1490.0, 1550.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 16.0,
+            "loc": -0.1202260781268751,
+            "scale": 0.07454984333853684,
+            "gaussian_standard_deviation": 1.45494
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1550.0, 1610.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 16.0,
+            "loc": -0.11152733163815712,
+            "scale": 0.09252397592977303,
+            "gaussian_standard_deviation": 1.13382
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1610.0, 1680.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9.0003,
+            "loc": -0.12115835201181674,
+            "scale": 0.09901519789954959,
+            "gaussian_standard_deviation": 1.1050200000000001
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1680.0, 1750.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 11.9998,
+            "loc": -0.09229724959763239,
+            "scale": 0.1285584740549172,
+            "gaussian_standard_deviation": 0.84287
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1750.0, 1820.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 6.99998,
+            "loc": -0.0957900825485582,
+            "scale": 0.1598549448996265,
+            "gaussian_standard_deviation": 0.694645
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1820.0, 1890.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9.0003,
+            "loc": -0.08621103275363695,
+            "scale": 0.206675088252884,
+            "gaussian_standard_deviation": 0.542717
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1890.0, 1970.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 9.0,
+            "loc": -0.10423817432909506,
+            "scale": 0.23431764388882872,
+            "gaussian_standard_deviation": 0.5188159999999999
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 1970.0, 2050.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 8.0,
+            "loc": -0.08221827304337571,
+            "scale": 0.3023927197023978,
+            "gaussian_standard_deviation": 0.38783999999999996
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2050.0, 2130.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 4.0,
+            "loc": -0.07232993329147279,
+            "scale": 0.37494084989808507,
+            "gaussian_standard_deviation": 0.318312
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2130.0, 2210.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3.0,
+            "loc": -0.07028887726205844,
+            "scale": 0.4787234378231659,
+            "gaussian_standard_deviation": 0.25441600000000003
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2210.0, 2290.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 7.0,
+            "loc": -0.07427803299420824,
+            "scale": 0.6067300756920204,
+            "gaussian_standard_deviation": 0.20824800000000002
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2290.0, 2370.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.028703848445946506,
+            "scale": 0.7842859691727891,
+            "gaussian_standard_deviation": 0.15412800000000001
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2370.0, 2450.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2.0,
+            "loc": -0.053671218225133335,
+            "scale": 0.9891962516528416,
+            "gaussian_standard_deviation": 0.13036799999999998
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2450.0, 2530.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.11011321398179721,
+            "scale": 1.2417554789784402,
+            "gaussian_standard_deviation": 0.11268
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2530.0, 2610.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3.0,
+            "loc": -0.07368980294680877,
+            "scale": 1.5573022859798031,
+            "gaussian_standard_deviation": 0.087152
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2610.0, 2690.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 2.0,
+            "loc": -0.0199740842286043,
+            "scale": 1.9354806861329976,
+            "gaussian_standard_deviation": 0.0668904
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2690.0, 2770.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.24682819329938865,
+            "scale": 2.4135367513296275,
+            "gaussian_standard_deviation": 0.0712488
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2770.0, 2850.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 3.0,
+            "loc": -0.04116245023373921,
+            "scale": 3.0264910547345614,
+            "gaussian_standard_deviation": 0.0454984
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2850.0, 2930.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.01917432805790139,
+            "scale": 3.691785109129273,
+            "gaussian_standard_deviation": 0.0371568
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 2930.0, 3010.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.03330860264806961,
+            "scale": 4.663887518377184,
+            "gaussian_standard_deviation": 0.0305104
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3010.0, 3090.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.07493294564370617,
+            "scale": 5.759235271238098,
+            "gaussian_standard_deviation": 0.026360799999999997
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3090.0, 3170.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.3635106992410537,
+            "scale": 7.009412223973501,
+            "gaussian_standard_deviation": 0.0277448
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3170.0, 3250.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2957599199527383,
+            "scale": 8.35099988620209,
+            "gaussian_standard_deviation": 0.030994400000000002
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3250.0, 3330.0)"
+            ],
+            "distribution_type": "GeneralGammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.022310272436524076,
+            "scale": 10.366255158725254,
+            "gaussian_standard_deviation": 0.0145672
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3330.0, 3410.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 2.0,
+            "loc": -0.010017213503307308,
+            "scale": 12.52151687913407
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3410.0, 3490.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 2.0,
+            "loc": -0.16410758017390112,
+            "scale": 15.547386219091818
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3490.0, 3570.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.015636615701624952,
+            "scale": 19.54576962703109
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3570.0, 3650.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.019053327589963854,
+            "scale": 23.816659487454693
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3650.0, 3730.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.023398146632611003,
+            "scale": 29.247683290763604
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3730.0, 3810.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.028493584361313357,
+            "scale": 35.61698045164151
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3810.0, 3890.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.03477304623418915,
+            "scale": 43.46630779273621
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3890.0, 3970.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.04258791083132504,
+            "scale": 53.23488853915603
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 3970.0, 4070.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.05347429942077692,
+            "scale": 53.474299420776646
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4070.0, 4170.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.06781422641464707,
+            "scale": 67.81422641464671
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4170.0, 4270.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.0898203758599447,
+            "scale": 89.82037585994424
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4270.0, 4370.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.12095049004124918,
+            "scale": 120.95049004124854
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4370.0, 4470.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.1530742674834604,
+            "scale": 153.0742674834596
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4470.0, 4570.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.20684035845902948,
+            "scale": 206.8403584590284
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4570.0, 4670.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.2766606293187627,
+            "scale": 276.6606293187612
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4670.0, 4770.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.3715941521072129,
+            "scale": 371.59415210721096
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4770.0, 4870.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.5320500353532824,
+            "scale": 532.0500353532797
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4870.0, 4970.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -0.7597256104832386,
+            "scale": 759.7256104832346
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 4970.0, 5070.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -1.321111172510847,
+            "scale": 1321.11117251084
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5070.0, 5170.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -2.5907112396792864,
+            "scale": 2590.7112396792727
+        },
+        {
+            "observables": [
+                "('R_13(pp->ee)', 5170.0, 5270.0)"
+            ],
+            "distribution_type": "GammaDistributionPositive",
+            "a": 1.0,
+            "loc": -17.07097424270556,
+            "scale": 17070.97424270547
+        }
+    ]
+}
