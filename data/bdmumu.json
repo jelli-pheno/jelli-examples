@@ -28,9 +28,9 @@
         "observable_names": [
             "BR(B0->mumu)",
             "BR_LHCb(Bs->K*0mumu)",
-            "('<dBR/dq2>(B+->pimumu)', 2, 4)",
-            "('<dBR/dq2>(B+->pimumu)', 15, 22)",
-            "('<dBR/dq2>(B+->pimumu)', 4, 6)"
+            "('<dBR/dq2>(B+->pimumu)', 2.0, 4.0)",
+            "('<dBR/dq2>(B+->pimumu)', 15.0, 22.0)",
+            "('<dBR/dq2>(B+->pimumu)', 4.0, 6.0)"
         ],
         "reproducibility": {
             "tools": {
