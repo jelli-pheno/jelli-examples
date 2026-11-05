@@ -281,53 +281,58 @@
             "('R_13(pp->ee)', 183.5417, 190.7122)",
             "('R_13(pp->ee)', 65.0, 70.0)"
         ],
-        "reproducibility": {
-            "tools": {
-                "name": "flavio",
-                "version": "2.5.5"
-            },
-            "inputs": {
-                "s2w": {
-                    "mean": 0.23121,
-                    "std": 4e-05
+        "reproducibility": [
+            {
+                "inputs": {
+                    "s2w": {
+                        "mean": 0.23121,
+                        "std": 4e-05
+                    },
+                    "PDFmembers avg=0 replicas=1-100": {
+                        "distribution_type": "discrete_uniform",
+                        "distribution_parameters": {
+                            "lowest_value": 0,
+                            "highest_value": 100,
+                            "default_value": 0
+                        },
+                        "distribution_description": "Uniform distribution with boundaries lowest_value and highest_value."
+                    },
+                    "gamma": {
+                        "mean": 1.15,
+                        "std": 0.06
+                    },
+                    "m_Z": {
+                        "mean": 91.1876,
+                        "std": 0.0021000000000000003
+                    },
+                    "beta": {
+                        "mean": 0.3937,
+                        "std": 0.0081
+                    },
+                    "alpha_e": {
+                        "mean": 0.00781549,
+                        "std": 5.5e-07
+                    },
+                    "tau_Z": {
+                        "mean": 0.40076947739660146,
+                        "std": 0.00036941720022931363
+                    },
+                    "Vcb": {
+                        "mean": 0.04197,
+                        "std": 0.00048
+                    },
+                    "Vus": {
+                        "mean": 0.2248,
+                        "std": 0.0006000000000000001
+                    }
                 },
-                "PDFmembers avg=0 replicas=1-100": {
-                    "distribution": "discrete_uniform",
-                    "lowest_value": 0,
-                    "highest_value": 100,
-                    "default_value": 0
-                },
-                "gamma": {
-                    "mean": 1.15,
-                    "std": 0.06
-                },
-                "m_Z": {
-                    "mean": 91.1876,
-                    "std": 0.0021000000000000003
-                },
-                "beta": {
-                    "mean": 0.3937,
-                    "std": 0.0081
-                },
-                "alpha_e": {
-                    "mean": 0.00781549,
-                    "std": 5.5e-07
-                },
-                "tau_Z": {
-                    "mean": 0.40076947739660146,
-                    "std": 0.00036941720022931363
-                },
-                "Vcb": {
-                    "mean": 0.04197,
-                    "std": 0.00048
-                },
-                "Vus": {
-                    "mean": 0.2248,
-                    "std": 0.0006000000000000001
+                "description": "Obtained using flavio.",
+                "tool": {
+                    "name": "flavio",
+                    "version": "2.5.5"
                 }
-            },
-            "description": "Obtained using flavio."
-        }
+            }
+        ]
     },
     "data": {
         "observable_central": {
